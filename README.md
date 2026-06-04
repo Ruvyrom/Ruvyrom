@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Ruvyrom
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Prerequisites
+To implement the Ruvomain Protocol, you must have the following tools installed and configured on your device:
 
-<!---
-Ruvyrom/Ruvyrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **[Shizuku](https://shizuku.rikka.app/)**: Allows apps to use system APIs directly without root.
+- **[Canta](https://github.com/samolego/Canta)**: Used to manage and uninstall system applications viaShizuku.
+
+## Important Note
+**This protocol is optimized for the Pixel 6.**
+For other devices, proceedwith caution and verify your system compatibility. Usage on other hardware is at your own risk.
