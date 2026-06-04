@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+
 ## Prerequisites
 To implement the Ruvomain Protocol, you must have the following tools installed and configured on your device:
 
