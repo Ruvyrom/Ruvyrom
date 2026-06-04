@@ -17,12 +17,12 @@ For other devices, proceed with caution and verify your system compatibility. Us
 ## Results Showcase
 | Energy Efficiency | Refined Interface |
 | :---: | :---: |
-| <img src="assets/battery-results.png" width="300"> | <img src="assets/clean-app-drawer.png" width="300"> |
+| <img src="assets/battery-results.png" width="200"> | <img src="assets/clean-app-drawer.png" width="300"> |
 | **Battery Life:** 4h SOT achieved on a 4-year-old battery with 1,310+ charge cycles. Proving that the Ruvomain Protocol breathes new life into aging hardware. | **Minimalism:** Nobloat, just the essentials. |
 
 | Resource Management | Connectivity |
 | :---: | :---: |
-| <img src="assets/ram-usage.png" width="300"> | <img src="assets/Only-wifi.png" width="300"> |
+| <img src="assets/ram-usage.png" width="200"> | <img src="assets/Only-wifi.png" width="300"> |
 |**RAM Usage:** Optimized background processes. | **Control:** Restricted network access. |
 
 ## Why Ruvomain?
