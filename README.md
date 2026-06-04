@@ -17,7 +17,7 @@ For other devices, proceed with caution and verify your system compatibility. Us
 ## Results Showcase
 | Energy Efficiency | Refined Interface |
 | :---: | :---: |
-| ![Battery](assets/battery-results.png) | ![Home](assets/clean-home.png) |
+| ![Battery](assets/battery-results.png) | ![AppDrawer](assets/clean-app-drawer.png) |
 | **Battery Life:** 4h SOT achievedon a 4-year-old battery with 1,310+ charge cycles. Proving that the Ruvomain Protocolbreathes new life into aging hardware. | **Minimalism:** Nobloat, just the essentials. |
 
 | Resource Management | Connectivity |
