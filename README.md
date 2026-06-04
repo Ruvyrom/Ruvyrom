@@ -22,7 +22,7 @@ For other devices, proceed with caution and verify your system compatibility. Us
 
 | Resource Management | Connectivity |
 | :---: | :---: |
-| ![Ram](assets/ram-usage.png) | ![Wifi](assets/wifi-only.png) |
+| ![Ram](assets/ram-usage.png) | ![Wifi](assets/Only-wifi.png) |
 |**RAM Usage:** Optimized background processes. | **Control:** Restricted network access. |
 
 ## Why Ruvomain?
