@@ -36,6 +36,7 @@ For other devices, proceed with caution and verify your system compatibility. Us
 - **Battery Status:** 4 years old / 1,310 cycles
 - **Result:** Even with a degraded battery, the Ruvomain Protocol ensures 4h SOT and optimized standby drain.
 
+---
 *My other project on github for [Samsung Galaxy S24+ stock OneUI 8.5](https://github.com/Ruvyrom/Ruvomain-Protocole)*
 
 *Stay clean, stay fast, stay Ruvomain!* 🚀
