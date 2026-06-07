@@ -17,7 +17,7 @@ To implement the Ruvomain Protocol, you must have the following tools installed 
 
 **Deploy:** Import the preferred `.json` file from the `/config` folder into Canta.
 
-4.  **Finalize:** Reboot the device.
+**Finalize:** Reboot the device.
 
 ## Important Note
 **This protocol is optimized for the Pixel 6 on LineageOS 23.2 Vanilla with or without MicroG Plus.**
