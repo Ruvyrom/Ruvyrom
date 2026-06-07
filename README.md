@@ -6,6 +6,8 @@
 ![Status](https://img.shields.io/badge/Privacy-Focused-purple)
 ![Status](https://img.shields.io/badge/Shizuku-Powered-orange)
 
+![](https://github.com/Ruvyrom/Ruvomain-Protocole/blob/main/assets/ruvomain.jpg)
+
 ## Prerequisites and usage
 To implement the Ruvomain Protocol, you must have the following tools installed and configured on your device:
 
