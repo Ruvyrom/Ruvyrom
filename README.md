@@ -1,8 +1,8 @@
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![Status](https://img.shields.io/badge/LineageOS-23.2-blue)
 ![Status](https://img.shields.io/badge/Google-Pixel6-red)
-
 ![Status](https://img.shields.io/badge/No-Root-yellow)
+![Status](https://img.shields.io/badge/Thermal-Optimized-green)
 
 ## Prerequisites and usage
 To implement the Ruvomain Protocol, you must have the following tools installed and configured on your device:
