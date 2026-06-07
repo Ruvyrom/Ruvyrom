@@ -15,7 +15,7 @@ To implement the Ruvomain Protocol, you must have the following tools installed 
 
 **Activate:** Enable Developer Options > Wireless Debugging. Pair Shizuku.
 
-**Deploy:** Import the preferred `.json` file from the `/config` folder into Canta.
+**Deploy:** Import the preferred `.json` file from the [/config](https://github.com/Ruvyrom/Ruvomain-Pixel6/tree/main/Configs) folder into Canta.
 
 **Finalize:** Reboot the device.
 
